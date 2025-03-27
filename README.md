@@ -1,1 +1,6 @@
-# taller-02-aca
+# Taller 02 - ACA
+
+## Oscar Alexander Cruz Martínez 
+
+## 00109321
+
